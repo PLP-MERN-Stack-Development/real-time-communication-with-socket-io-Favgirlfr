@@ -1,4 +1,4 @@
- ChatRoom - Real-Time Chat Application
+## ChatRoom - Real-Time Chat Application
 
 A modern, production-ready real-time chat application built with the MERN stack (MongoDB, Express.js, React, Node.js) and Tailwind CSS.
 
